@@ -12,6 +12,8 @@ the features that this application contains are the following:
 
 to install the application locally (after cloning the files) do the following:
 
+worthy to note that you need node installed before running any of this
+
 ```
 npm install
 node app.js
@@ -20,6 +22,7 @@ node app.js
 that's it for running it locally, the application will create a ContactsDB.db file for you to use anywhere you like
 
 to try the application in a dockeized format do the following:
+worthy to note that you need docker installed before running any of this
 
 ```
 docker pull ahmedalamoudi192/phonebook:1.0
