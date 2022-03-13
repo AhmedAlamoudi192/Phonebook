@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  },
+  "name": "phonebook",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
