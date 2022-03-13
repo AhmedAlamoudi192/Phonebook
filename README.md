@@ -22,6 +22,6 @@ that's it for running it locally, the application will create a ContactsDB.db fi
 to try the application in a dockeized format do the following:
 
 ```
-docker pull AhmedAlamoudi192/phonebook:1.0
-docker run -it AhmedAlamoudi192/phonebook:1.0
+docker pull ahmedalamoudi192/phonebook:1.0
+docker run -it ahmedalamoudi192/phonebook:1.0
 ```
